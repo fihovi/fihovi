@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>📫 How to reach me: Email - filiphovorka@outlook.com
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development and Backend systems<br>📫 How to reach me: Email - filiphovorka@outlook.com
 
 
 ## 🌐 Socials:
